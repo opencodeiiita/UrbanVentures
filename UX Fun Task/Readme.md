@@ -11,7 +11,7 @@ Can there be an easier and more fun task than playing a game? Doubt it! 😏
 [https://userinyerface.com/](https://userinyerface.com/)  
 
 2️⃣ Complete the short game and take a screenshot 📸.  
-3️⃣ In a doc file, share the screenshot, write about **how you felt** while playing, and reflect on the **importance of user interface and user experience**.  
+3️⃣ In a doc file, share the screenshot, write about **how you felt** while playing, and reflect on the **importance of user interface and user experience**. Then, share the doc link in the **UX Fun Task** folder.  
 
 ---
 
