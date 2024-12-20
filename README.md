@@ -37,13 +37,13 @@ No claim can be made on the number of points awarded by the Mentors & Organisers
 
 ## ⏳The Design Timeline:
 
-| Task | Duration of Submission | Difficulty Level | Maximum Points |
-| --- | --- | --- | --- |
-| User Experience (UX) Task-1 | 15th Dec - 19th Dec | Rookie | 10 |
-| User Experience(UX) Task - 2 | 20th Dec - 24th Dec | Rookie | 20 |
-| User Interface (UI) Task - 1 | 25th Dec - 31th Dec | Skilled | 20 |
-| Graphic Design Task | 1st Jan - 6th Jan | Skilled | 30 |
-| User Interface (UI) Task -2 | 6th Jan - 16th Jan | Expert | 50 |
+| Task | Duration of Submission | Difficulty Level |
+| --- | --- | --- |
+| User Experience (UX) Task-1 | 15th Dec - 19th Dec | Rookie |
+| User Experience(UX) Task - 2 | 20th Dec - 24th Dec | Rookie |
+| User Interface (UI) Task - 1 | 25th Dec - 31th Dec | Skilled |
+| Graphic Design Task | 1st Jan - 6th Jan | Skilled |
+| User Interface (UI) Task -2 | 6th Jan - 16th Jan | Expert |
 
 > Each task's specific folder will have a list of detailed instructions. Keep checking for updates about new task releases😉!
 > 
