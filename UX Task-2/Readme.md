@@ -55,8 +55,11 @@ Special thanks to @Goddbott (Aditya Ajay) for the amazing work in UX Task1! 🎉
 ### Minimum Design Criteria (MDC) 🎯
 
 ✅ Create wireframes for at least 5 screens of the app.
+
 ✅ Cover all major functionalities of the app in the wireframes.
+
 ✅ Show a clear flow and structure across all screens.
+
 ✅ Focus on usability and layout; don’t worry about colors or detailed visuals.
 
 NOTE: The goal is to learn, so be original and let your creativity shine! 😊
